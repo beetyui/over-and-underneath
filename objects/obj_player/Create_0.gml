@@ -24,3 +24,9 @@ coins = 0;
 /// @DnDArgument : "var_1" "hearts"
 max_hearts = 3;
 hearts = max_hearts;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 738C8502
+/// @DnDArgument : "var" "input_direction"
+input_direction = 0;
